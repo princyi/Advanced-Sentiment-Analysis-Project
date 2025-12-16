@@ -15,7 +15,6 @@ Enter text interactively, or use commands like 'batch input.txt' for file analys
 Example Interactive Output:
 
 
-Copy code
 Enter text or command: I absolutely love this innovative project!
 Original: 'I absolutely love this innovative project!'
 Cleaned: 'absolutely love innovative project'
@@ -29,6 +28,7 @@ Batch processing complete! Results saved to 'output.txt'.
 --------------------------------------------------
 Enter text or command: quit
 Goodbye!
+
 Batch Mode:
 
 Create a .txt file (e.g., input.txt) with one sentence per line.
